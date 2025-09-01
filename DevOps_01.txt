@@ -1,0 +1,8 @@
+1.development
+2.staging
+>individual files(including extension)
+>multiple files
+3.local repositories(checks clear data or not)
+4.pull and push automatically
+cd=continuous delivery
+ci=continuous integration
